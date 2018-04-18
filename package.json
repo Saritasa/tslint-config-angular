@@ -1,5 +1,5 @@
 {
-  "name": "saritasa-angular-tslint-config",
+  "name": "@saritasa/tslint-config-angular",
   "version": "0.0.1",
   "description": "Saritasa's shareable config for tslint of Angular X projects",
   "main": "index.js",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/saritasa/saritasa-angular-tslint-config.git"
+    "url": "https://github.com/saritasa/tslint-config-angular.git"
   },
   "author": "Danila Sidorkin <sidorkin@saritasa.com>",
   "license": "MIT",
