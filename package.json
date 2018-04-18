@@ -1,6 +1,6 @@
 {
   "name": "@saritasa/tslint-config-angular",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Saritasa's shareable config for tslint of Angular X projects",
   "main": "index.js",
   "scripts": {
