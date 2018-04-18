@@ -1,0 +1,24 @@
+{
+  "name": "saritasa-angular-tslint-config",
+  "version": "0.0.1",
+  "description": "Saritasa's shareable config for tslint of Angular X projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tslint",
+    "tslint-config",
+    "saritasa"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saritasa/saritasa-angular-tslint-config.git"
+  },
+  "author": "Danila Sidorkin <sidorkin@saritasa.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "tslint": "~5.7.0",
+    "codelyzer": "~4.2.1"
+  }
+}
