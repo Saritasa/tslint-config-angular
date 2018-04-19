@@ -49,7 +49,10 @@
       true,
       {
         "classes": {
-          "visibilities": ["exported"]
+          "visibilities": ["exported"],
+          "tags": {
+            "existence": ["inheritDoc"]
+          }
         },
         "enums": true,
         "enum-members": true,
@@ -57,13 +60,22 @@
           "visibilities": ["exported"]
         },
         "interfaces": {
-          "visibilities": ["exported"]
+          "visibilities": ["exported"],
+          "tags": {
+            "existence": ["inheritDoc"]
+          }
         },
         "methods": {
-          "privacies": ["public", "protected"]
+          "privacies": ["public", "protected"],
+          "tags": {
+            "existence": ["inheritDoc"]
+          }
         },
         "properties": {
-          "privacies": ["public", "protected"]
+          "privacies": ["public", "protected"],
+          "tags": {
+            "existence": ["inheritDoc"]
+          }
         }
       }
     ],
