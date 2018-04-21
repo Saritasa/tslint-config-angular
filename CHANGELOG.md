@@ -1,6 +1,11 @@
 Change Log
 ===
 
+v0.0.4
+---
+
+- [bugfix] Add missing `content` sections for `completed-docs`
+
 v0.0.3
 ---
 

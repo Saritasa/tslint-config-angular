@@ -51,6 +51,7 @@
         "classes": {
           "visibilities": ["exported"],
           "tags": {
+            "content": {},
             "existence": ["inheritDoc"]
           }
         },
@@ -62,18 +63,21 @@
         "interfaces": {
           "visibilities": ["exported"],
           "tags": {
+            "content": {},
             "existence": ["inheritDoc"]
           }
         },
         "methods": {
           "privacies": ["public", "protected"],
           "tags": {
+            "content": {},
             "existence": ["inheritDoc"]
           }
         },
         "properties": {
           "privacies": ["public", "protected"],
           "tags": {
+            "content": {},
             "existence": ["inheritDoc"]
           }
         }
