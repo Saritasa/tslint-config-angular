@@ -8,7 +8,8 @@
     "class-name": true,
     "comment-format": [
       true,
-      "check-space"
+      "check-space",
+      "check-uppercase"
     ],
     "curly": true,
     "deprecation": {
