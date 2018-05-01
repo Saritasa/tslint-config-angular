@@ -34,12 +34,7 @@
       true,
       140
     ],
-    "member-access": [
-      true,
-      "check-accessor",
-      "check-constructor",
-      "check-parameter-property"
-    ],
+    "member-access": true,
     "typedef": [
       true,
       "call-signature",
