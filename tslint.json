@@ -133,6 +133,7 @@
       "check-else",
       "check-whitespace"
     ],
+    "no-consecutive-blank-lines": true,
     "prefer-const": true,
     "quotemark": [
       true,
