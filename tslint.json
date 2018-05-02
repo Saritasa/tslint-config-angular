@@ -201,7 +201,7 @@
           "objects": "always",
           "arrays": "always",
           "imports": "always",
-          "functions": "never"
+          "functions": "ignore"
         },
         "esSpecCompliant": true
       }
