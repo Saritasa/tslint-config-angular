@@ -1,6 +1,13 @@
 Change Log
 ===
 
+v0.0.5
+---
+
+- Force single-lined comments to start with an upper case letter
+- Force specifying access modifier
+- Require to end multiline import, object and array declarations with a comma
+
 v0.0.4
 ---
 
