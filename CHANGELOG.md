@@ -1,6 +1,11 @@
 Change Log
 ===
 
+v0.0.6
+---
+
+- Force using of trailing comma for all multiline declarations
+
 v0.0.5
 ---
 
