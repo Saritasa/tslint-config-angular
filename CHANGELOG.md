@@ -1,6 +1,10 @@
 Change Log
 ===
 
+v1.0.0
+---
+- Allow importing from rxjs module for support RxJS v6+
+
 v0.0.6
 ---
 
