@@ -19,6 +19,7 @@
   "license": "MIT",
   "peerDependencies": {
     "tslint": "^5.17.0",
-    "codelyzer": "^5.1.0"
+    "codelyzer": "^5.1.0",
+    "typescript": "^3.0.0"
   }
 }
