@@ -47,7 +47,7 @@
           "visibilities": ["exported"],
           "tags": {
             "content": {},
-            "existence": ["inheritDoc"]
+            "existence": ["inheritDoc", "inheritdoc"]
           }
         },
         "enums": true,
@@ -59,21 +59,21 @@
           "visibilities": ["exported"],
           "tags": {
             "content": {},
-            "existence": ["inheritDoc"]
+            "existence": ["inheritDoc", "inheritdoc"]
           }
         },
         "methods": {
           "privacies": ["public", "protected"],
           "tags": {
             "content": {},
-            "existence": ["inheritDoc"]
+            "existence": ["inheritDoc", "inheritdoc"]
           }
         },
         "properties": {
           "privacies": ["public", "protected"],
           "tags": {
             "content": {},
-            "existence": ["inheritDoc"]
+            "existence": ["inheritDoc", "inheritdoc"]
           }
         }
       }
@@ -153,7 +153,6 @@
         "variable-declaration": "nospace"
       }
     ],
-    "typeof-compare": true,
     "unified-signatures": true,
     "variable-name": false,
     "whitespace": [
