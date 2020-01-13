@@ -1,6 +1,10 @@
 Change Log
 ===
 
+v2.0.0
+---
+- Rename codelyzer rules according [Update "deprication" rule](https://github.com/mgechev/codelyzer/issues/791).
+
 v1.0.0
 ---
 - Allow importing from rxjs module for support RxJS v6+

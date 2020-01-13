@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./tslint.json']
+  extends: ['./.eslintrc'],
 };
