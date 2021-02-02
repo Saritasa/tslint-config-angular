@@ -1,6 +1,6 @@
 {
   "name": "@saritasa/tslint-config-angular",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Saritasa's shareable config for tslint of Angular X projects",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,8 @@
   "author": "Danila Sidorkin <sidorkin@saritasa.com>",
   "license": "MIT",
   "peerDependencies": {
-    "tslint": "^5.17.0",
-    "codelyzer": "^5.1.0",
-    "typescript": "^3.0.0"
+    "tslint": "^6.1.0",
+    "codelyzer": "^6.0.0",
+    "typescript": "^4.0.0"
   }
 }
